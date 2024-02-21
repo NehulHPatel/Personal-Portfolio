@@ -4,7 +4,7 @@ __pycache__/
 *.pyo
 
 # Django generated files
-*.sqlite3
+# *.sqlite3
 *.pyc
 *.pyo
 *.pyc
@@ -16,10 +16,10 @@ __pycache__/
 .env
 
 # Static files directory
-/staticfiles/
+# /staticfiles/
 
 # Media files directory
-/media/
+# /media/
 
 # Virtual environment
 venv/
